@@ -39,14 +39,6 @@ Me chamo Lorran Leão, sou apaixonado pela programação e tecnologia, especialm
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 
-/>
-
-/>
-
-/>
-<img 
-
-/>
 <img 
     align="left" 
     alt="SASS" 
@@ -63,10 +55,6 @@ Me chamo Lorran Leão, sou apaixonado pela programação e tecnologia, especialm
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-
-/>
-<img 
 
 />
 <img 
